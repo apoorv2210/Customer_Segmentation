@@ -1,5 +1,13 @@
-Customer Segmentation
+Customer Segmentation - Case study
 ================
+
+This is a typical consulting problem, where a business wants to understand the different types of customers it has based on their tweeting history for the purpose of __targeted marketing__. In this report, I will analyze the data and present my recommendations about the different types of customers that I could discover from this dataset. More information about the dataset can be found at the end of this report in the "Appendix".
+
+# About me
+
+Hi! I'm __Apoorv Mehrotra__, a graduate student at __McCombs Business School, UT Austin__, currently pursuing my __Master's of Science in Business Analytics__. I have a deep rooted interest in solving problems and storytelling. I have 1 year of experience in Retail analytics which gave me a stronghold on tools like SQL, Python, R, Google BigQuery, MS Excel etc. I joined this Master's program to deepen my knowledge of Statistical concepts that form the fundamentals of analytical problem solving and to sharpen my storytelling skills so that I can help businesses extract maximum value from these concepts without them having to dive deep into the math behind the scenes.
+
+I am interested in roles that involve translation of business problems into mathematically/statistically solvable problems, and to provide __actionable insights__ that can help my clients and stakeholders reap the rewards of their investment in me.
 
 # The goal
 
